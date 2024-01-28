@@ -1,0 +1,26 @@
+img {
+    border-radius: 50%;
+    border: 5px solid rgba(240, 214, 212, 0.966);
+  }
+  
+  .contact-details {
+    color:rgba(255,228,225,1);
+    font-style: italic;
+    font-weight: bold; 
+  }
+
+  h1{
+    font-style: italic;
+    font-weight:bold;  
+      
+  }
+
+
+  p{
+    color: mistyrose;
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Courier New'; 
+  }
+
+  
